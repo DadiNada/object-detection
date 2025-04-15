@@ -5,6 +5,8 @@ This project implements and compares two popular object detection algorithms: YO
 ![yolob8](images/yolov8.jpeg)
 
 ![ssd](images/ssd.jpeg)
+
+![ssd](outputs/output_video.mp4)
 ## Features
 
 - Multiple object detection models:
@@ -161,6 +163,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - YOLOv8 by Ultralytics
 - PyTorch team for SSD implementation
 - OpenCV community
-# object-detection
-# object-detection
-# object-detection
